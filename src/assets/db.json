@@ -1,0 +1,29 @@
+{
+    "cards": [
+        {
+            "src": "./assets/img/portfolio/portfolio1.png"
+        },
+        {
+            "src": "../assets/img/portfolio/portfolio2png.png"
+        },
+        {
+            "src": "./assets/img/portfolio/portfolio3png.png"
+        },
+        {
+            "src": "./assets/img/portfolio/portfolio4png.png"
+        },
+        {
+            "src": "./assets/img/portfolio/portfolio1.png"
+        },
+        {
+            "src": "./assets/img/portfolio/portfolio2png.png"
+        },
+        {
+            "src": "./assets/img/portfolio/portfolio3png.png"
+        },
+        {
+            "src": "./assets/img/portfolio/portfolio4png.png"
+        }
+    
+    ]
+}
